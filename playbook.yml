@@ -1,5 +1,5 @@
 ---
-- name: "aluno3_g"
+- name: aluno3_g
   hosts: webservers
   become: true
   gather_facts: true
