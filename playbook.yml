@@ -1,5 +1,5 @@
 ---
-- name: "Provisionar Servidor Web - Workshop Red Hat Academy"
+- name: "aluno3_g"
   hosts: webservers
   become: true
   gather_facts: true
